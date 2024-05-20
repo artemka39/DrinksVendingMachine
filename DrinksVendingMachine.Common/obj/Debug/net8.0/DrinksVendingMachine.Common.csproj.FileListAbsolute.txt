@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\bin\Debug\net8.0\DrinksVendingMachine.Common.deps.json
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\bin\Debug\net8.0\DrinksVendingMachine.Common.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\bin\Debug\net8.0\DrinksVendingMachine.Common.pdb
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\DrinksVendingMachine.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\DrinksVendingMachine.Common.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\DrinksVendingMachine.Common.AssemblyInfo.cs
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\DrinksVendingMachine.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\DrinksVendingMachine.Common.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\refint\DrinksVendingMachine.Common.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\DrinksVendingMachine.Common.pdb
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Common\obj\Debug\net8.0\ref\DrinksVendingMachine.Common.dll

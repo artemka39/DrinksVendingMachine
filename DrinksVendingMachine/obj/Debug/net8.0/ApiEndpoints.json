@@ -1,0 +1,191 @@
+[
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "GetData",
+    "RelativePath": "Administrative",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "AddDrink",
+    "RelativePath": "Administrative/AddDrink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "drink",
+        "Type": "DrinksVendingMachine.Common.Models.Drink",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "ChangeCoinsCount",
+    "RelativePath": "Administrative/ChangeCoinsCount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coin",
+        "Type": "DrinksVendingMachine.Common.Models.Coin",
+        "IsRequired": true
+      },
+      {
+        "Name": "coinsCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "ChangeDrink",
+    "RelativePath": "Administrative/ChangeDrink",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "drink",
+        "Type": "DrinksVendingMachine.Common.Models.Drink",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "DeleteDrink",
+    "RelativePath": "Administrative/DeleteDrink",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "drink",
+        "Type": "DrinksVendingMachine.Common.Models.Drink",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "DisableCoinAcceptance",
+    "RelativePath": "Administrative/DisableCoinAcceptance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coin",
+        "Type": "DrinksVendingMachine.Common.Models.Coin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "EnableCoinAcceptance",
+    "RelativePath": "Administrative/EnableCoinAcceptance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coin",
+        "Type": "DrinksVendingMachine.Common.Models.Coin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.AdministrativeController",
+    "Method": "ImportDrink",
+    "RelativePath": "Administrative/ImportDrink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "drinkSource",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.DrinksVendingController",
+    "Method": "GetDrinksList",
+    "RelativePath": "DrinksVending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.DrinksVendingController",
+    "Method": "GetChange",
+    "RelativePath": "DrinksVending/GetChange",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.DrinksVendingController",
+    "Method": "GetDrinks",
+    "RelativePath": "DrinksVending/GetDrinks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.DrinksVendingController",
+    "Method": "SelectDrink",
+    "RelativePath": "DrinksVending/SelectDrink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "drink",
+        "Type": "DrinksVendingMachine.Common.Models.Drink",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DrinksVendingMachine.Controllers.DrinksVendingController",
+    "Method": "TopUpBalance",
+    "RelativePath": "DrinksVending/TopUpBalance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "denomination",
+        "Type": "DrinksVendingMachine.Requests.DenominationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

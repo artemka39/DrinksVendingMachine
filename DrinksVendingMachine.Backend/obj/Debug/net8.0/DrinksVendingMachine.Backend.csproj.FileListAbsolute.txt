@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\bin\Debug\net8.0\DrinksVendingMachine.Backend.deps.json
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\bin\Debug\net8.0\DrinksVendingMachine.Backend.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\bin\Debug\net8.0\DrinksVendingMachine.Backend.pdb
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\bin\Debug\net8.0\DrinksVendingMachine.Common.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\bin\Debug\net8.0\DrinksVendingMachine.Common.pdb
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.AssemblyInfo.cs
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVe.C98ADF1E.Up2Date
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\refint\DrinksVendingMachine.Backend.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.pdb
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\ref\DrinksVendingMachine.Backend.dll
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\bin\Debug\net8.0\DrinksVendingMachine.Backend.runtimeconfig.json
+C:\Users\user\source\repos\DrinksVendingMachine\DrinksVendingMachine.Backend\obj\Debug\net8.0\DrinksVendingMachine.Backend.genruntimeconfig.cache

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377BC4C8-9746-4517-94AB-1743B3AA2521}|DrinksVendingMachine.Backend\\DrinksVendingMachine.Backend.csproj|c:\\users\\user\\source\\repos\\drinksvendingmachine\\drinksvendingmachine.backend\\services\\drinksvending\\drinksvendingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377BC4C8-9746-4517-94AB-1743B3AA2521}|DrinksVendingMachine.Backend\\DrinksVendingMachine.Backend.csproj|solutionrelative:drinksvendingmachine.backend\\services\\drinksvending\\drinksvendingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377BC4C8-9746-4517-94AB-1743B3AA2521}|DrinksVendingMachine.Backend\\DrinksVendingMachine.Backend.csproj|c:\\users\\user\\source\\repos\\drinksvendingmachine\\drinksvendingmachine.backend\\services\\payment\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377BC4C8-9746-4517-94AB-1743B3AA2521}|DrinksVendingMachine.Backend\\DrinksVendingMachine.Backend.csproj|solutionrelative:drinksvendingmachine.backend\\services\\payment\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A5B2EF-1654-4B92-B988-83DB2C2917D0}|DrinksVendingMachine\\DrinksVendingMachine.csproj|c:\\users\\user\\source\\repos\\drinksvendingmachine\\drinksvendingmachine\\controllers\\drinksvendingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A5B2EF-1654-4B92-B988-83DB2C2917D0}|DrinksVendingMachine\\DrinksVendingMachine.csproj|solutionrelative:drinksvendingmachine\\controllers\\drinksvendingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A5B2EF-1654-4B92-B988-83DB2C2917D0}|DrinksVendingMachine\\DrinksVendingMachine.csproj|c:\\users\\user\\source\\repos\\drinksvendingmachine\\drinksvendingmachine\\requests\\denominationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A5B2EF-1654-4B92-B988-83DB2C2917D0}|DrinksVendingMachine\\DrinksVendingMachine.csproj|solutionrelative:drinksvendingmachine\\requests\\denominationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DenominationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine\\Requests\\DenominationRequest.cs",
+              "RelativeDocumentMoniker": "DrinksVendingMachine\\Requests\\DenominationRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine\\Requests\\DenominationRequest.cs",
+              "RelativeToolTip": "DrinksVendingMachine\\Requests\\DenominationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:07:50.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrinksVendingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine.Backend\\Services\\DrinksVending\\DrinksVendingService.cs",
+              "RelativeDocumentMoniker": "DrinksVendingMachine.Backend\\Services\\DrinksVending\\DrinksVendingService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine.Backend\\Services\\DrinksVending\\DrinksVendingService.cs",
+              "RelativeToolTip": "DrinksVendingMachine.Backend\\Services\\DrinksVending\\DrinksVendingService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:19:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrinksVendingController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine\\Controllers\\DrinksVendingController.cs",
+              "RelativeDocumentMoniker": "DrinksVendingMachine\\Controllers\\DrinksVendingController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine\\Controllers\\DrinksVendingController.cs",
+              "RelativeToolTip": "DrinksVendingMachine\\Controllers\\DrinksVendingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:16:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine.Backend\\Services\\Payment\\PaymentService.cs",
+              "RelativeDocumentMoniker": "DrinksVendingMachine.Backend\\Services\\Payment\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DrinksVendingMachine\\DrinksVendingMachine.Backend\\Services\\Payment\\PaymentService.cs",
+              "RelativeToolTip": "DrinksVendingMachine.Backend\\Services\\Payment\\PaymentService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:45:46.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
